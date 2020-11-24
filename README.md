@@ -17,7 +17,6 @@ Star Trek style Universal Translator for about 100 Earth languages (Klingon, Vul
 
 <p>Essentially, you can call anyone and both of you can speak to each other in a different language while the UT translates back and forth in real time, in a natural sounding human voice in the languages that you are both simultaneously speaking.
 <h3>Platform</h3>
-<ul>
   <br>i. PHP</li>
   <br>ii. MySQL</li>
   <br>ii. NodeJS</li>
