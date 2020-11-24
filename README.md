@@ -9,20 +9,22 @@
 Star Trek style Universal Translator for about 100 Earth languages (Klingon, Vulcan and Andorian are in beta)
 
 <h3>Whats Different</h3>
-All existing universal Translators existing in the market today are stand alone; meraning, in order to converse with someone in a different language, you have to be in their presence pretty much, and the entire experience is very clumsy. One person speakds in the unit that theyu hold in their hand, wait for it to speak the translated language, and thenm you hold it up to the other persons face so they may do the same.
+<p>Speech to Text from the Mic without that annoying BEEP every time you try to talk! 
 
-This simple, one file based solution provides universal translation integrated into your phone calls or video calls.
+<p>All existing universal Translators existing in the market today are stand alone; meraning, in order to converse with someone in a different language, you have to be in their presence pretty much, and the entire experience is very clumsy. One person speakds in the unit that theyu hold in their hand, wait for it to speak the translated language, and thenm you hold it up to the other persons face so they may do the same.
 
-Essentially, you can call anyone and both of you can speak to each other in a different language while the UT translates back and forth in real time, in a natural sounding human voice in the languages that you are both simultaneously speaking.
-<h3>PLATFORM</h3>
+<p>This simple, one file based solution provides universal translation integrated into your phone calls or video calls.
+
+<p>Essentially, you can call anyone and both of you can speak to each other in a different language while the UT translates back and forth in real time, in a natural sounding human voice in the languages that you are both simultaneously speaking.
+<h3>Platform</h3>
 <ul>
-  <l1>PHP</li>
-  <l1>MySQL</li>
-  <l1>NodeJS</li>
+  <br>i. PHP</li>
+  <br>ii. MySQL</li>
+  <br>ii. NodeJS</li>
 </ul>
-<h3>API's USED</h3>
+<h3>API Credit</h3>
 <ul>
-  <br>i. WebRTC</li>
+  <br>i. The WebRTC Framework</li>
   <br>ii. Google Cloud - Speech - Voice to Text Transcription</li>
   <br>iii. Google Cloud - Translate - Translation Services</li>
   <br>iv. Google Cloud - Machine Learning AI - Natural sounding speech synthesis</li>
