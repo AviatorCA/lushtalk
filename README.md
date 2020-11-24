@@ -22,10 +22,10 @@ Essentially, you can call anyone and both of you can speak to each other in a di
 </ul>
 <h3>API's USED</h3>
 <ul>
-  <l1>WebRTC</li>
-  <l1>Google Cloud - Speech - Voice to Text Transcription</li>
-  <l1>Google Cloud - Translate - Translation Services</li>
-  <l1>Google Cloud - Machine Learning AI - Natural sounding speech synthesis</li>
+  <br>i. WebRTC</li>
+  <br>ii. Google Cloud - Speech - Voice to Text Transcription</li>
+  <br>iii. Google Cloud - Translate - Translation Services</li>
+  <br>iv. Google Cloud - Machine Learning AI - Natural sounding speech synthesis</li>
 </ul>
 
 
