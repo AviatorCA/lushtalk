@@ -1,8 +1,8 @@
 <h1># lushtalk</h1>
-<h2>Video Calling</h2>
-<p>WebRTC Video Calling implemented for a practical, usable solution</p>
-<p>WebRTC Video Calls made easy.</p>
+<h2>1 on 1 Private Video Calling</h2>
+<h3>Whats Different</h3>
 <p>Start a video Call with anyone (with a valid mobile number) by just sending their number as an sms. Thats it, no apps, no fuss, no platform restrictions.</p>
+<p>From a user perspective, make android to iphone video calls (and vice versa) without any apps. WebRTC Video Calling implemented for a practical, usable solution</p>
 
 <h2>Video & Audio Calls with an Integrated Universal Translator</h2>
 <h3>What is it</h3>
@@ -17,13 +17,13 @@ Star Trek style Universal Translator for about 100 Earth languages (Klingon, Vul
 
 <p>Essentially, you can call anyone and both of you can speak to each other in a different language while the UT translates back and forth in real time, in a natural sounding human voice in the languages that you are both simultaneously speaking.
 <h3>Platform</h3>
-  <br>i. PHP</li>
+  i. PHP</li>
   <br>ii. MySQL</li>
   <br>ii. NodeJS</li>
 </ul>
 <h3>API Credit</h3>
 <ul>
-  <br>i. The WebRTC Framework</li>
+  i. The WebRTC Framework</li>
   <br>ii. Google Cloud - Speech - Voice to Text Transcription</li>
   <br>iii. Google Cloud - Translate - Translation Services</li>
   <br>iv. Google Cloud - Machine Learning AI - Natural sounding speech synthesis</li>
